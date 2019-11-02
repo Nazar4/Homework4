@@ -1,4 +1,3 @@
-
-public class Frog {
+public class Frog extends Amphibia {
 
 }

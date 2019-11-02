@@ -1,4 +1,7 @@
+public class Cow extends Pet {
 
-public class Cow {
-
+    @Override
+    void voice() {
+        System.out.println("Я корова- Мууу-Мууу");
+    }
 }
